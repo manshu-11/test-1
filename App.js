@@ -3,4 +3,4 @@ function add(a, b) {
 }
 
 const value = add(5, 5);
-console.log(value);
+console.log(value); // output will be 10
